@@ -15222,6 +15222,11 @@ margin-bottom:0;
     float: right;
     margin-right: -200px;
 }
+.address-box .text_widget {
+    max-width: 390px;
+    padding: 40px 25px;
+    transform: translateX(10%) translateY(-45%);
+}
 
 	.button_49274096705{-webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-color:#f15048;background-image:none;color:#ffffff;font-size:18px;line-height:20px;letter-spacing:1px;word-spacing:0px;text-transform:uppercase;font-weight:>Default</option>
 																			<option value=;border-top-left-radius:25px;border-top-right-radius:26px;border-bottom-left-radius:25px;border-bottom-right-radius:25px;border-left-width:0px;border-right-width:0px;border-top-width:0px;border-bottom-width:0px;border-style:none;border-color:#000000;padding-left:35px;padding-right:35px;padding-top:15px;padding-bottom:15px;display:inline-block;position:relative;}.button_49274096705:hover{background-color:#000000;background-image:none;color:#ffffff;font-size:18px;line-height:20px;letter-spacing:1px;word-spacing:0px;text-transform:uppercase;font-weight:>Default</option>
